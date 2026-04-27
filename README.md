@@ -53,33 +53,7 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🎵 FTC Music Library
-- Sheet music viewer, audio playback & YouTube integration  
-- Admin dashboard with authentication & CRUD  
-- Upload MP3, WAV, PDF, JPG, PNG via Cloudinary  
-
-🔗 [Demo](https://sheet-music-app-client.vercel.app)
-
----
-
-### 📚 Readify
-- AI chatbot using RAG (MongoDB + ChromaDB)  
-- Analytics, cart, wishlist, stock system  
-
----
-
-### 🗺️ InterMap
-- Indoor navigation with Mapbox  
-- Voice navigation + multilingual support  
-
----
-
 ## 📫 Contact
 - 📧 phamkhavycm2004@gmail.com  
-- 💻 GitHub: https://github.com/ivakavych-kartoshka  
-
----
-
-⭐ *"Code. Learn. Build. Improve."*
+- 💻 GitHub: https://github.com/ivakavych-kartoshka
+- Phone Number: 0943767501
