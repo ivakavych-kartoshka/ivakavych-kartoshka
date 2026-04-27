@@ -1,63 +1,78 @@
 <h1 align="center">Hi 👋, I'm Pham Kha Vy</h1>
-<h3 align="center">Full-Stack Developer | React.js • Next.js • NestJS • Spring Boot</h3>
+<h3 align="center">Full-Stack Developer</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React.js-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Frontend-Next.js-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Backend-NestJS-e0234e?style=for-the-badge&logo=nestjs" />
+  <img src="https://img.shields.io/badge/Backend-SpringBoot-6DB33F?style=for-the-badge&logo=springboot" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge&logo=postgresql" />
+</p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Final-year Software Engineering student at FPT University  
-- 💻 Passionate about building modern, scalable web applications  
-- ⚡ Strong focus on Frontend (React.js, Next.js) & Full-stack development  
-- 🌱 Currently improving system design & performance optimization  
+- 🎓 Final-year Software Engineering student  
+- 💻 Full-stack developer (React, Next.js, NestJS, Spring Boot)  
+- ⚡ Focus on building scalable and high-performance web apps  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-- JavaScript | Java | C  
-
 ### 🎨 Frontend
-- React.js | Next.js | HTML | CSS | Responsive Design  
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3" />
+</p>
 
 ### ⚙️ Backend
-- NestJS | Express.js | Spring Boot | RESTful APIs  
+<p>
+  <img src="https://img.shields.io/badge/NestJS-e0234e?style=flat&logo=nestjs" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express" />
+</p>
 
 ### 🗄️ Database
-- MongoDB | PostgreSQL | SQL Server  
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql" />
+</p>
 
-### ☁️ Tools & Platforms
-- Git | GitHub | Postman | Swagger | Vercel | Render | Cloudinary  
+### ☁️ Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🎵 FTC Music Library Platform
-- Music platform with sheet viewing, audio playback & YouTube integration  
+### 🎵 FTC Music Library
+- Sheet music viewer, audio playback & YouTube integration  
 - Admin dashboard with authentication & CRUD  
-- File upload (MP3, WAV, PDF, JPG, PNG) via Cloudinary  
+- Upload MP3, WAV, PDF, JPG, PNG via Cloudinary  
 
-🔗 [Demo](https://sheet-music-app-client.vercel.app)  
-🔗 [Backend](https://github.com/ivakavych-kartoshka/sheet-music-app)  
-🔗 [Frontend](https://github.com/ivakavych-kartoshka/sheet-music-app-client)  
+🔗 [Demo](https://sheet-music-app-client.vercel.app)
 
 ---
 
-### 📚 Readify – Online Book Platform
+### 📚 Readify
 - AI chatbot using RAG (MongoDB + ChromaDB)  
-- Revenue analytics, cart, wishlist, stock management  
-- Built with NestJS, NextJS, Flutter  
-
-🔗 [Backend](https://github.com/Thunggg/Readify_BE)  
-🔗 [Frontend](https://github.com/Thunggg/Readify_FE)  
+- Analytics, cart, wishlist, stock system  
 
 ---
 
-### 🗺️ InterMap – Indoor Navigation System
-- Indoor map with Mapbox multi-layer rendering  
-- Voice navigation (TTS) + multilingual support  
-
-🔗 [Demo](https://tech-intermap.vercel.app)  
+### 🗺️ InterMap
+- Indoor navigation with Mapbox  
+- Voice navigation + multilingual support  
 
 ---
 
@@ -70,9 +85,9 @@
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: phamkhavycm2004@gmail.com  
-- 💼 GitHub: https://github.com/ivakavych-kartoshka  
+## 📫 Contact
+- 📧 phamkhavycm2004@gmail.com  
+- 💻 GitHub: https://github.com/ivakavych-kartoshka  
 
 ---
 
