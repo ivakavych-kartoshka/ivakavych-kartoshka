@@ -1,8 +1,10 @@
-<div align="center">
+ <div align="center">
 
-# 👋 **Pham Kha Vy**
+# Pham Kha Vy
 
-### `Full-Stack Developer` · `AI Enthusiast`
+**Full-Stack Developer** · **Backend Engineering** · **AI / NLP Research**
+
+Building scalable applications, designing backend systems, and exploring practical AI solutions.
 
 <p>
   <a href="https://github.com/ivakavych-kartoshka">
@@ -13,276 +15,194 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=140&section=header" width="100%" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-I'm a **Full-Stack Developer** focused on building modern, scalable web applications and exploring practical applications of **AI and NLP**.
+I'm a **Full-Stack Developer** interested in building scalable web applications, designing reliable backend architectures, and integrating AI into practical software systems.
 
-My main areas of interest are:
+My development experience focuses on the JavaScript/TypeScript ecosystem, particularly **Node.js, NestJS, Next.js, PostgreSQL, and Prisma**.
 
-* 🌐 Full-Stack Web Development
-* ⚙️ Backend Engineering & API Design
-* 🏗️ Scalable & Modular Architecture
-* 🤖 AI / NLP Applications
-* 🧠 LLM & Multi-Agent Systems
-* 🛡️ AI Security
+Beyond software development, I explore **Natural Language Processing, Transformer-based models, LLM-based agents, and AI security** through experimental implementations and research.
 
-> 💡 **I enjoy turning complex ideas into practical, maintainable software.**
+I enjoy working across the entire software development lifecycle — from database design and API architecture to frontend implementation, system integration, and deployment.
 
----
+**Core interests:**
 
-## ⚡ What I Do
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Full-Stack Development
-
-Building applications across the entire stack.
-
-**Frontend**
-
-* React
-* Next.js
-* Tailwind CSS
-
-**Backend**
-
-* NestJS / Node.js
-* Spring Boot
-* REST APIs
-
-**Data**
-
-* PostgreSQL
-* MongoDB
-* Prisma
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 AI & NLP
-
-Exploring AI from both the model and application side.
-
-* Transformer Models
-* mDeBERTa
-* Hugging Face
-* Multi-label Classification
-* Text Embeddings
-* BGE-M3
-* Semantic Similarity
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🏗️ Engineering
-
-Focused on building maintainable systems.
-
-* Modular Architecture
-* Monorepo
-* Database Design
-* API Design
-* Authentication & OAuth
-* Validation & Testing
-* Git / GitHub
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛡️ AI Security
-
-Exploring security challenges in LLM-based systems.
-
-* Prompt Injection
-* Multi-Agent Systems
-* Agent Communication
-* Attack Propagation
-* Agent Vulnerabilities
-* AgentDojo
-* Security Evaluation
-
-</td>
-</tr>
-</table>
+- Backend Engineering & System Design
+- Full-Stack Web Application Development
+- Database Design & API Architecture
+- AI / NLP & Transformer Models
+- Semantic Search & Intelligent Matching
+- LLM Agents & AI Security
 
 ---
 
-# 🛠️ Tech Stack
-
-<div align="center">
+## Technical Skills
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts" />
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,java" />
+</p>
 
-### Frontend
+### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
 
-### Backend
+- React.js
+- Next.js
+- Tailwind CSS
+- Responsive Web Development
+- Component-Based Architecture
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring" />
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring" />
+</p>
+
+- Node.js & NestJS
+- RESTful API Development
+- Modular Backend Architecture
+- Authentication & Authorization
+- JWT & OAuth Integration
+- API Validation & Error Handling
+- Real-time Communication
 
 ### Database & ORM
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+</p>
 
-### AI / ML
+- PostgreSQL
+- MongoDB
+- Prisma ORM
+- Relational Database Design
+- Data Modeling & Query Optimization
 
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
+### AI / Machine Learning
 
-<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+</p>
 
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLM%20Agents-111827?style=for-the-badge" />
+- Transformer-based NLP
+- mDeBERTa
+- Multi-class Text Classification
+- Text Embeddings
+- BGE-M3
+- Semantic Similarity
+- Model Evaluation & Threshold Optimization
 
-### DevOps & Tools
+### DevOps & Development Tools
 
-<img src="https://skillicons.dev/icons?i=docker,git,github" />
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman" />
+</p>
 
-<br/>
-
-<img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
-<img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
-</div>
-
----
-
-# 🧠 AI & Research
-
-### 🔹 NLP & Text Classification
-
-Working with multilingual Transformer models such as **mDeBERTa** for multi-label text classification.
-
-```text
-        Raw Text
-           │
-           ▼
-     Preprocessing
-           │
-           ▼
-   Transformer Encoder
-           │
-           ▼
- Custom Classification Head
-           │
-           ▼
- Multi-Label Predictions
-           │
-           ▼
-   Model Evaluation
-```
-
-**Exploring**
-
-`Multi-label Classification` · `Threshold Optimization` · `Label-aware Attention`
-
-`Precision` · `Recall` · `F1` · `ROC-AUC` · `PR-AUC`
+- Docker & Docker Compose
+- Git & GitHub
+- pnpm
+- Turborepo
+- Swagger / OpenAPI
+- Postman
+- Monorepo Development
 
 ---
 
-### 🔹 Semantic Matching
+## Engineering & Research
 
-Exploring embedding-based semantic matching with **BGE-M3**.
+### 01. Backend Engineering
 
-```text
-      Input Text
-          │
-          ▼
-      Embedding
-          │
-          ▼
-    Vector Space
-          │
-          ▼
- Similarity Calculation
-          │
-          ▼
-      Ranking
-```
+My primary engineering focus is designing and implementing maintainable backend systems.
 
-**Semantic Similarity + Skill Matching → Intelligent Ranking**
+Areas of experience:
 
----
+- Modular architecture with NestJS
+- RESTful API design and implementation
+- Authentication, authorization, and access control
+- PostgreSQL database modeling with Prisma
+- Backend validation and exception handling
+- API documentation and testing
+- Multi-package monorepo development
 
-### 🔹 Multi-Agent Security
+**Technologies:** `TypeScript` · `NestJS` · `Node.js` · `PostgreSQL` · `Prisma`
 
-Exploring security challenges in **LLM-based Multi-Agent Systems**.
+### 02. AI & Natural Language Processing
 
-```text
- ┌─────────┐      Message      ┌─────────┐
- │ Agent A │ ─────────────────► │ Agent B │
- └─────────┘                    └────┬────┘
-                                     │
-                                  Message
-                                     ▼
-                                ┌─────────┐
-                                │ Agent C │
-                                └────┬────┘
-                                     │
-                                     ▼
-                              System Output
-                                     │
-                                     ▼
-                            ⚠️ Attack Propagation
-```
+Exploring practical NLP solutions using Transformer-based architectures and embedding models.
 
-**Research Areas**
+**Vietnamese Text Classification**
 
-`Prompt Injection` · `Agent Communication` · `Attack Propagation`
+Working with mDeBERTa-based models for Vietnamese sensitive content detection, including:
 
-`Agent Vulnerabilities` · `Multi-Agent Evaluation` · `AgentDojo`
+- Text preprocessing and normalization
+- Transformer-based classification
+- Label-aware classification strategies
+- Rule-based and model-based decision fusion
+- Classification threshold optimization
+- Precision, Recall, Macro-F1 and Accuracy evaluation
 
----
+**Semantic Matching**
 
-# 🏗️ Engineering Strengths
+Exploring embedding-based approaches for intelligent matching and retrieval.
 
-<div align="center">
+- BGE-M3 embeddings
+- Vector representations
+- Cosine similarity
+- Semantic search
+- Hybrid ranking strategies
 
-| Area                 | Focus                                               |
-| :------------------- | :-------------------------------------------------- |
-| 🌐 **Frontend**      | React · Next.js · Responsive UI                     |
-| ⚙️ **Backend**       | NestJS · Node.js · Spring Boot · REST APIs          |
-| 🗄️ **Data**         | PostgreSQL · MongoDB · Prisma                       |
-| 🔐 **Security**      | Authentication · OAuth · API Validation             |
-| 🏛️ **Architecture** | Modular Architecture · Monorepo · Scalable Services |
-| 🤖 **AI / NLP**      | Transformers · Classification · Embeddings          |
-| 🧠 **LLM**           | Multi-Agent Systems · Agent Communication           |
-| 🛡️ **AI Security**  | Prompt Injection · Attack Propagation               |
-| 🐳 **DevOps**        | Docker · pnpm · Turborepo · Git                     |
+**Technologies:** `Python` · `PyTorch` · `Hugging Face` · `mDeBERTa` · `BGE-M3`
 
-</div>
+### 03. LLM Agents & AI Security
+
+Research interests in security and reliability challenges of LLM-powered autonomous agents.
+
+Areas of exploration:
+
+- Prompt Injection
+- Multi-Agent Systems
+- Inter-Agent Communication
+- Attack Propagation
+- Agent Vulnerability Analysis
+- Security Evaluation
+- Android GUI Agent Security
+
+Interested in understanding how untrusted inputs influence agent reasoning, decision-making, and downstream actions.
 
 ---
 
-# 📈 GitHub
+## Development Principles
+
+| Area | Engineering Focus |
+|:---|:---|
+| Architecture | Modular, maintainable, and extensible systems |
+| Backend | Reliable APIs and clear separation of concerns |
+| Database | Consistent data models and relational integrity |
+| Security | Authentication, authorization, and input validation |
+| AI Integration | Practical AI solutions with measurable evaluation |
+| Collaboration | Git workflows, code reviews, and team development |
+| Deployment | Containerization and reproducible environments |
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/ivakavych-kartoshka">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=ivakavych-kartoshka&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivakavych-kartoshka&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ivakavych-kartoshka&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivakavych-kartoshka&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 
 <br/>
@@ -293,63 +213,33 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivakavych-ka
 
 ---
 
-# 🎯 Current Focus
+## Currently Exploring
 
-<div align="center">
-
-### `Full-Stack Engineering`
-
-`████████████████████░░`
-
-### `Backend Architecture`
-
-`██████████████████░░░░`
-
-### `AI / NLP`
-
-`████████████████░░░░░░`
-
-### `LLM & Multi-Agent Systems`
-
-`██████████████░░░░░░░░`
-
-### `AI Security`
-
-`████████████░░░░░░░░░░`
-
-</div>
+- Backend Architecture & System Design
+- Scalable Full-Stack Applications
+- Advanced NLP & Transformer Architectures
+- Embedding-based Retrieval & Semantic Matching
+- LLM-based Multi-Agent Systems
+- AI Agent Security & Prompt Injection Defense
 
 ---
 
-## 🔭 Currently Exploring
-
-* 🧩 **Backend architecture & system design**
-* 🤖 **LLM & Multi-Agent Systems**
-* 🧠 **NLP & Transformer-based models**
-* 🔎 **Semantic search & intelligent matching**
-* 🛡️ **Security in AI Agent systems**
-* 🐳 **Scalable development & DevOps**
-
----
-
-# 💬 Let's Connect
+## Let's Connect
 
 <div align="center">
 
 <a href="mailto:phamkhavycm2004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-phamkhavycm2004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/ivakavych-kartoshka">
-  <img src="https://img.shields.io/badge/GitHub-ivakavych--kartoshka-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-### `Code → Build → Learn → Improve → Repeat`
+**Build · Engineer · Research · Improve**
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=100&section=footer" width="100%" />
 
 </div>
